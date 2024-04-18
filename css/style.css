@@ -55,7 +55,7 @@ nav ul li{
 nav ul li a:hover{
     color: lightskyblue;
 }
-nav ul li link{
+nav ul li a{
     text-decoration: none;
     color: black;
 }
